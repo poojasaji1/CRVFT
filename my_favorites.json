@@ -1,0 +1,32 @@
+[
+  {
+    "config": {
+      "num_colors": 12,
+      "contrast": 1.0319450186421157,
+      "posterization": 0.23298331215843354,
+      "dithering_strength": 0.3998609717152555,
+      "edge_outline": 0.03733253057089234
+    },
+    "grid_size": 100
+  },
+  {
+    "config": {
+      "num_colors": 15,
+      "contrast": 0.6313132924555586,
+      "posterization": 0.6738278196759988,
+      "dithering_strength": 0.9394989415641891,
+      "edge_outline": 0.7158618803421191
+    },
+    "grid_size": 150
+  },
+  {
+    "config": {
+      "num_colors": 20,
+      "contrast": 0.9143559810763267,
+      "posterization": 0.40685655293176226,
+      "dithering_strength": 0.1393314544058757,
+      "edge_outline": 0.48353390342225383
+    },
+    "grid_size": 100
+  }
+]
