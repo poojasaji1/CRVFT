@@ -1,0 +1,2091 @@
+{
+  "image_path": "data/04.png",
+  "total_patterns": 150,
+  "ratings": {
+    "0": "bad",
+    "1": "bad",
+    "2": "good",
+    "3": "bad",
+    "4": "bad",
+    "5": "bad",
+    "6": "bad",
+    "7": "bad",
+    "8": "bad",
+    "9": "bad",
+    "10": "bad",
+    "11": "bad",
+    "12": "good",
+    "13": "good",
+    "14": "good",
+    "15": "bad",
+    "16": "bad",
+    "17": "bad",
+    "18": "bad",
+    "19": "bad",
+    "20": "bad",
+    "21": "bad",
+    "22": "bad",
+    "23": "bad",
+    "24": "bad",
+    "25": "bad",
+    "26": "bad",
+    "27": "bad",
+    "28": "bad",
+    "29": "bad",
+    "30": "bad",
+    "31": "bad",
+    "32": "bad",
+    "33": "bad",
+    "34": "bad",
+    "35": "bad",
+    "36": "good",
+    "37": "good",
+    "38": "good",
+    "39": "bad",
+    "40": "bad",
+    "41": "bad",
+    "42": "bad",
+    "43": "bad",
+    "44": "bad",
+    "45": "bad",
+    "46": "bad",
+    "47": "bad",
+    "48": "bad",
+    "49": "bad",
+    "50": "bad",
+    "51": "bad",
+    "52": "bad",
+    "53": "bad",
+    "54": "bad",
+    "55": "bad",
+    "56": "bad",
+    "57": "good",
+    "58": "good",
+    "59": "good",
+    "60": "bad",
+    "61": "bad",
+    "62": "bad",
+    "63": "bad",
+    "64": "bad",
+    "65": "bad",
+    "66": "bad",
+    "67": "bad",
+    "68": "bad",
+    "69": "good",
+    "70": "bad",
+    "71": "bad",
+    "72": "bad",
+    "73": "good",
+    "74": "good",
+    "75": "bad",
+    "76": "bad",
+    "77": "bad",
+    "78": "bad",
+    "79": "good",
+    "80": "good",
+    "81": "good",
+    "82": "good",
+    "83": "good",
+    "84": "good",
+    "85": "bad",
+    "86": "good",
+    "87": "bad",
+    "88": "bad",
+    "89": "bad",
+    "90": "bad",
+    "91": "bad",
+    "92": "bad",
+    "93": "good",
+    "94": "good",
+    "95": "good",
+    "96": "bad",
+    "97": "bad",
+    "98": "good",
+    "99": "bad",
+    "100": "bad",
+    "101": "bad",
+    "102": "bad",
+    "103": "bad",
+    "104": "bad",
+    "105": "bad",
+    "106": "bad",
+    "107": "bad",
+    "108": "bad",
+    "109": "good",
+    "110": "good",
+    "111": "bad",
+    "112": "bad",
+    "113": "bad",
+    "114": "bad",
+    "115": "bad",
+    "116": "bad",
+    "117": "bad",
+    "118": "bad",
+    "119": "bad",
+    "120": "bad",
+    "121": "bad",
+    "122": "bad",
+    "123": "bad",
+    "124": "bad",
+    "125": "bad",
+    "126": "bad",
+    "127": "bad",
+    "128": "good",
+    "129": "bad",
+    "130": "bad",
+    "131": "bad",
+    "132": "bad",
+    "133": "bad",
+    "134": "bad",
+    "135": "bad",
+    "136": "bad",
+    "137": "good",
+    "138": "bad",
+    "139": "bad",
+    "140": "bad",
+    "141": "bad",
+    "142": "bad",
+    "143": "bad",
+    "144": "good",
+    "145": "bad",
+    "146": "bad",
+    "147": "bad",
+    "148": "bad",
+    "149": "bad"
+  },
+  "comparisons": [
+    [
+      2,
+      12
+    ],
+    [
+      14,
+      13
+    ],
+    [
+      37,
+      36
+    ],
+    [
+      38,
+      57
+    ],
+    [
+      59,
+      58
+    ],
+    [
+      73,
+      69
+    ],
+    [
+      79,
+      74
+    ],
+    [
+      80,
+      81
+    ],
+    [
+      83,
+      82
+    ],
+    [
+      86,
+      84
+    ],
+    [
+      94,
+      93
+    ],
+    [
+      98,
+      95
+    ],
+    [
+      110,
+      109
+    ],
+    [
+      128,
+      137
+    ],
+    [
+      14,
+      2
+    ],
+    [
+      38,
+      37
+    ],
+    [
+      73,
+      59
+    ],
+    [
+      79,
+      80
+    ],
+    [
+      86,
+      83
+    ],
+    [
+      98,
+      94
+    ],
+    [
+      110,
+      128
+    ],
+    [
+      38,
+      14
+    ],
+    [
+      79,
+      73
+    ],
+    [
+      86,
+      98
+    ],
+    [
+      110,
+      144
+    ],
+    [
+      38,
+      79
+    ],
+    [
+      110,
+      86
+    ],
+    [
+      110,
+      38
+    ],
+    [
+      110,
+      38
+    ],
+    [
+      110,
+      110
+    ],
+    [
+      110,
+      110
+    ]
+  ],
+  "good_patterns": [
+    {
+      "id": 2,
+      "config_idx": 0,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 12,
+        "contrast": 0.9745401188473625,
+        "posterization": 0.760571445127933,
+        "dithering_strength": 0.7796910002727693,
+        "edge_outline": 0.4774801263571896
+      }
+    },
+    {
+      "id": 12,
+      "config_idx": 4,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.0319450186421157,
+        "posterization": 0.23298331215843354,
+        "dithering_strength": 0.3998609717152555,
+        "edge_outline": 0.03733253057089234
+      }
+    },
+    {
+      "id": 13,
+      "config_idx": 4,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.0319450186421157,
+        "posterization": 0.23298331215843354,
+        "dithering_strength": 0.3998609717152555,
+        "edge_outline": 0.03733253057089234
+      }
+    },
+    {
+      "id": 14,
+      "config_idx": 4,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.0319450186421157,
+        "posterization": 0.23298331215843354,
+        "dithering_strength": 0.3998609717152555,
+        "edge_outline": 0.03733253057089234
+      }
+    },
+    {
+      "id": 36,
+      "config_idx": 12,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 20,
+        "contrast": 1.1978999788110851,
+        "posterization": 0.7374993880184935,
+        "dithering_strength": 0.1959828624191452,
+        "edge_outline": 0.03618183112843045
+      }
+    },
+    {
+      "id": 37,
+      "config_idx": 12,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 20,
+        "contrast": 1.1978999788110851,
+        "posterization": 0.7374993880184935,
+        "dithering_strength": 0.1959828624191452,
+        "edge_outline": 0.03618183112843045
+      }
+    },
+    {
+      "id": 38,
+      "config_idx": 12,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 20,
+        "contrast": 1.1978999788110851,
+        "posterization": 0.7374993880184935,
+        "dithering_strength": 0.1959828624191452,
+        "edge_outline": 0.03618183112843045
+      }
+    },
+    {
+      "id": 57,
+      "config_idx": 19,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.191297787707727,
+        "posterization": 0.21977743439205133,
+        "dithering_strength": 0.4722149251619493,
+        "edge_outline": 0.09567539675064136
+      }
+    },
+    {
+      "id": 58,
+      "config_idx": 19,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.191297787707727,
+        "posterization": 0.21977743439205133,
+        "dithering_strength": 0.4722149251619493,
+        "edge_outline": 0.09567539675064136
+      }
+    },
+    {
+      "id": 59,
+      "config_idx": 19,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.191297787707727,
+        "posterization": 0.21977743439205133,
+        "dithering_strength": 0.4722149251619493,
+        "edge_outline": 0.09567539675064136
+      }
+    },
+    {
+      "id": 69,
+      "config_idx": 23,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 18,
+        "contrast": 1.139841091301673,
+        "posterization": 0.16244897978781553,
+        "dithering_strength": 0.07697990982879299,
+        "edge_outline": 0.23180116233101444
+      }
+    },
+    {
+      "id": 73,
+      "config_idx": 24,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 18,
+        "contrast": 0.7612212872540044,
+        "posterization": 0.7437581218740585,
+        "dithering_strength": 0.295633685837714,
+        "edge_outline": 0.0843954078642165
+      }
+    },
+    {
+      "id": 74,
+      "config_idx": 24,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 18,
+        "contrast": 0.7612212872540044,
+        "posterization": 0.7437581218740585,
+        "dithering_strength": 0.295633685837714,
+        "edge_outline": 0.0843954078642165
+      }
+    },
+    {
+      "id": 79,
+      "config_idx": 26,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.8440207698110708,
+        "posterization": 0.7168730399387946,
+        "dithering_strength": 0.6476901205413623,
+        "edge_outline": 0.0004163015962526551
+      }
+    },
+    {
+      "id": 80,
+      "config_idx": 26,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.8440207698110708,
+        "posterization": 0.7168730399387946,
+        "dithering_strength": 0.6476901205413623,
+        "edge_outline": 0.0004163015962526551
+      }
+    },
+    {
+      "id": 81,
+      "config_idx": 27,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 20,
+        "contrast": 0.952568856334169,
+        "posterization": 0.24382500652642325,
+        "dithering_strength": 0.5107473025775657,
+        "edge_outline": 0.33392880251902324
+      }
+    },
+    {
+      "id": 82,
+      "config_idx": 27,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 20,
+        "contrast": 0.952568856334169,
+        "posterization": 0.24382500652642325,
+        "dithering_strength": 0.5107473025775657,
+        "edge_outline": 0.33392880251902324
+      }
+    },
+    {
+      "id": 83,
+      "config_idx": 27,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 20,
+        "contrast": 0.952568856334169,
+        "posterization": 0.24382500652642325,
+        "dithering_strength": 0.5107473025775657,
+        "edge_outline": 0.33392880251902324
+      }
+    },
+    {
+      "id": 84,
+      "config_idx": 28,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.8221078104707302,
+        "posterization": 0.09589229386694625,
+        "dithering_strength": 0.24412552224777417,
+        "edge_outline": 0.13463283373834445
+      }
+    },
+    {
+      "id": 86,
+      "config_idx": 28,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.8221078104707302,
+        "posterization": 0.09589229386694625,
+        "dithering_strength": 0.24412552224777417,
+        "edge_outline": 0.13463283373834445
+      }
+    },
+    {
+      "id": 93,
+      "config_idx": 31,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 10,
+        "contrast": 1.5977404850489418,
+        "posterization": 0.213424811420228,
+        "dithering_strength": 0.5026790232288615,
+        "edge_outline": 0.04118300099999148
+      }
+    },
+    {
+      "id": 94,
+      "config_idx": 31,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 10,
+        "contrast": 1.5977404850489418,
+        "posterization": 0.213424811420228,
+        "dithering_strength": 0.5026790232288615,
+        "edge_outline": 0.04118300099999148
+      }
+    },
+    {
+      "id": 95,
+      "config_idx": 31,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 10,
+        "contrast": 1.5977404850489418,
+        "posterization": 0.213424811420228,
+        "dithering_strength": 0.5026790232288615,
+        "edge_outline": 0.04118300099999148
+      }
+    },
+    {
+      "id": 98,
+      "config_idx": 32,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 12,
+        "contrast": 0.8786464642366114,
+        "posterization": 0.726612708773323,
+        "dithering_strength": 0.6807054515547668,
+        "edge_outline": 0.4247476666537091
+      }
+    },
+    {
+      "id": 109,
+      "config_idx": 36,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 15,
+        "contrast": 1.2958128067908818,
+        "posterization": 0.6866870438509759,
+        "dithering_strength": 0.6775643618422824,
+        "edge_outline": 0.013270263142284923
+      }
+    },
+    {
+      "id": 110,
+      "config_idx": 36,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 15,
+        "contrast": 1.2958128067908818,
+        "posterization": 0.6866870438509759,
+        "dithering_strength": 0.6775643618422824,
+        "edge_outline": 0.013270263142284923
+      }
+    },
+    {
+      "id": 128,
+      "config_idx": 42,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 8,
+        "contrast": 1.3003578299727714,
+        "posterization": 0.20225406356109504,
+        "dithering_strength": 0.6420316461542878,
+        "edge_outline": 0.06731197199603907
+      }
+    },
+    {
+      "id": 137,
+      "config_idx": 45,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.8242693094605598,
+        "posterization": 0.5697433770780287,
+        "dithering_strength": 0.4938937151834346,
+        "edge_outline": 0.14305816737706306
+      }
+    },
+    {
+      "id": 144,
+      "config_idx": 48,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.578892858275009,
+        "posterization": 0.3893937223675641,
+        "dithering_strength": 0.43439436551042865,
+        "edge_outline": 0.28006272615574057
+      }
+    }
+  ],
+  "bad_patterns": [
+    {
+      "id": 0,
+      "config_idx": 0,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 12,
+        "contrast": 0.9745401188473625,
+        "posterization": 0.760571445127933,
+        "dithering_strength": 0.7796910002727693,
+        "edge_outline": 0.4774801263571896
+      }
+    },
+    {
+      "id": 1,
+      "config_idx": 0,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 12,
+        "contrast": 0.9745401188473625,
+        "posterization": 0.760571445127933,
+        "dithering_strength": 0.7796910002727693,
+        "edge_outline": 0.4774801263571896
+      }
+    },
+    {
+      "id": 3,
+      "config_idx": 1,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.0458327528535911,
+        "posterization": 0.07997993265440231,
+        "dithering_strength": 0.8661761457749352,
+        "edge_outline": 0.48089200939456705
+      }
+    },
+    {
+      "id": 4,
+      "config_idx": 1,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.0458327528535911,
+        "posterization": 0.07997993265440231,
+        "dithering_strength": 0.8661761457749352,
+        "edge_outline": 0.48089200939456705
+      }
+    },
+    {
+      "id": 5,
+      "config_idx": 1,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.0458327528535911,
+        "posterization": 0.07997993265440231,
+        "dithering_strength": 0.8661761457749352,
+        "edge_outline": 0.48089200939456705
+      }
+    },
+    {
+      "id": 6,
+      "config_idx": 2,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 10,
+        "contrast": 1.3080725777960454,
+        "posterization": 0.016467595436641957,
+        "dithering_strength": 0.7219987722668247,
+        "edge_outline": 0.7508421672126002
+      }
+    },
+    {
+      "id": 7,
+      "config_idx": 2,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 10,
+        "contrast": 1.3080725777960454,
+        "posterization": 0.016467595436641957,
+        "dithering_strength": 0.7219987722668247,
+        "edge_outline": 0.7508421672126002
+      }
+    },
+    {
+      "id": 8,
+      "config_idx": 2,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 10,
+        "contrast": 1.3080725777960454,
+        "posterization": 0.016467595436641957,
+        "dithering_strength": 0.7219987722668247,
+        "edge_outline": 0.7508421672126002
+      }
+    },
+    {
+      "id": 9,
+      "config_idx": 3,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.6007787658410143,
+        "posterization": 0.7937692474329741,
+        "dithering_strength": 0.3042422429595377,
+        "edge_outline": 0.4198051453057903
+      }
+    },
+    {
+      "id": 10,
+      "config_idx": 3,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.6007787658410143,
+        "posterization": 0.7937692474329741,
+        "dithering_strength": 0.3042422429595377,
+        "edge_outline": 0.4198051453057903
+      }
+    },
+    {
+      "id": 11,
+      "config_idx": 3,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.6007787658410143,
+        "posterization": 0.7937692474329741,
+        "dithering_strength": 0.3042422429595377,
+        "edge_outline": 0.4198051453057903
+      }
+    },
+    {
+      "id": 15,
+      "config_idx": 5,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 20,
+        "contrast": 1.5737555188414591,
+        "posterization": 0.1862170723442434,
+        "dithering_strength": 0.7851759613930136,
+        "edge_outline": 0.1597390257266878
+      }
+    },
+    {
+      "id": 16,
+      "config_idx": 5,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 20,
+        "contrast": 1.5737555188414591,
+        "posterization": 0.1862170723442434,
+        "dithering_strength": 0.7851759613930136,
+        "edge_outline": 0.1597390257266878
+      }
+    },
+    {
+      "id": 17,
+      "config_idx": 5,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 20,
+        "contrast": 1.5737555188414591,
+        "posterization": 0.1862170723442434,
+        "dithering_strength": 0.7851759613930136,
+        "edge_outline": 0.1597390257266878
+      }
+    },
+    {
+      "id": 18,
+      "config_idx": 6,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.1142344384136116,
+        "posterization": 0.473931655089634,
+        "dithering_strength": 0.8599404067363206,
+        "edge_outline": 0.5442460308702238
+      }
+    },
+    {
+      "id": 19,
+      "config_idx": 6,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.1142344384136116,
+        "posterization": 0.473931655089634,
+        "dithering_strength": 0.8599404067363206,
+        "edge_outline": 0.5442460308702238
+      }
+    },
+    {
+      "id": 20,
+      "config_idx": 6,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.1142344384136116,
+        "posterization": 0.473931655089634,
+        "dithering_strength": 0.8599404067363206,
+        "edge_outline": 0.5442460308702238
+      }
+    },
+    {
+      "id": 21,
+      "config_idx": 7,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 8,
+        "contrast": 1.0504992519695429,
+        "posterization": 0.010611968927893223,
+        "dithering_strength": 0.9656320330745594,
+        "edge_outline": 0.646717878493169
+      }
+    },
+    {
+      "id": 22,
+      "config_idx": 7,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 8,
+        "contrast": 1.0504992519695429,
+        "posterization": 0.010611968927893223,
+        "dithering_strength": 0.9656320330745594,
+        "edge_outline": 0.646717878493169
+      }
+    },
+    {
+      "id": 23,
+      "config_idx": 7,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 8,
+        "contrast": 1.0504992519695429,
+        "posterization": 0.010611968927893223,
+        "dithering_strength": 0.9656320330745594,
+        "edge_outline": 0.646717878493169
+      }
+    },
+    {
+      "id": 24,
+      "config_idx": 8,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.9046137691733707,
+        "posterization": 0.07813769120510711,
+        "dithering_strength": 0.24102546602601171,
+        "edge_outline": 0.5466108150603666
+      }
+    },
+    {
+      "id": 25,
+      "config_idx": 8,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.9046137691733707,
+        "posterization": 0.07813769120510711,
+        "dithering_strength": 0.24102546602601171,
+        "edge_outline": 0.5466108150603666
+      }
+    },
+    {
+      "id": 26,
+      "config_idx": 8,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.9046137691733707,
+        "posterization": 0.07813769120510711,
+        "dithering_strength": 0.24102546602601171,
+        "edge_outline": 0.5466108150603666
+      }
+    },
+    {
+      "id": 27,
+      "config_idx": 9,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.2099966577826209,
+        "posterization": 0.6665559293889315,
+        "dithering_strength": 0.9093204020787821,
+        "edge_outline": 0.20702398528001353
+      }
+    },
+    {
+      "id": 28,
+      "config_idx": 9,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.2099966577826209,
+        "posterization": 0.6665559293889315,
+        "dithering_strength": 0.9093204020787821,
+        "edge_outline": 0.20702398528001353
+      }
+    },
+    {
+      "id": 29,
+      "config_idx": 9,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.2099966577826209,
+        "posterization": 0.6665559293889315,
+        "dithering_strength": 0.9093204020787821,
+        "edge_outline": 0.20702398528001353
+      }
+    },
+    {
+      "id": 30,
+      "config_idx": 10,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 20,
+        "contrast": 1.2625222843539818,
+        "posterization": 0.24936886087152876,
+        "dithering_strength": 0.20794166286818883,
+        "edge_outline": 0.4541602622559932
+      }
+    },
+    {
+      "id": 31,
+      "config_idx": 10,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 20,
+        "contrast": 1.2625222843539818,
+        "posterization": 0.24936886087152876,
+        "dithering_strength": 0.20794166286818883,
+        "edge_outline": 0.4541602622559932
+      }
+    },
+    {
+      "id": 32,
+      "config_idx": 10,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 20,
+        "contrast": 1.2625222843539818,
+        "posterization": 0.24936886087152876,
+        "dithering_strength": 0.20794166286818883,
+        "edge_outline": 0.4541602622559932
+      }
+    },
+    {
+      "id": 33,
+      "config_idx": 11,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.6313132924555586,
+        "posterization": 0.6738278196759988,
+        "dithering_strength": 0.9394989415641891,
+        "edge_outline": 0.7158618803421191
+      }
+    },
+    {
+      "id": 34,
+      "config_idx": 11,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.6313132924555586,
+        "posterization": 0.6738278196759988,
+        "dithering_strength": 0.9394989415641891,
+        "edge_outline": 0.7158618803421191
+      }
+    },
+    {
+      "id": 35,
+      "config_idx": 11,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.6313132924555586,
+        "posterization": 0.6738278196759988,
+        "dithering_strength": 0.9394989415641891,
+        "edge_outline": 0.7158618803421191
+      }
+    },
+    {
+      "id": 39,
+      "config_idx": 13,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 10,
+        "contrast": 0.9253303307632643,
+        "posterization": 0.31094183175158563,
+        "dithering_strength": 0.5396921323890798,
+        "edge_outline": 0.4694009325310786
+      }
+    },
+    {
+      "id": 40,
+      "config_idx": 13,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 10,
+        "contrast": 0.9253303307632643,
+        "posterization": 0.31094183175158563,
+        "dithering_strength": 0.5396921323890798,
+        "edge_outline": 0.4694009325310786
+      }
+    },
+    {
+      "id": 41,
+      "config_idx": 13,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 10,
+        "contrast": 0.9253303307632643,
+        "posterization": 0.31094183175158563,
+        "dithering_strength": 0.5396921323890798,
+        "edge_outline": 0.4694009325310786
+      }
+    },
+    {
+      "id": 42,
+      "config_idx": 14,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 18,
+        "contrast": 1.565255307264138,
+        "posterization": 0.48562739814934774,
+        "dithering_strength": 0.14092422497476265,
+        "edge_outline": 0.6417575846032317
+      }
+    },
+    {
+      "id": 43,
+      "config_idx": 14,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 18,
+        "contrast": 1.565255307264138,
+        "posterization": 0.48562739814934774,
+        "dithering_strength": 0.14092422497476265,
+        "edge_outline": 0.6417575846032317
+      }
+    },
+    {
+      "id": 44,
+      "config_idx": 14,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 18,
+        "contrast": 1.565255307264138,
+        "posterization": 0.48562739814934774,
+        "dithering_strength": 0.14092422497476265,
+        "edge_outline": 0.6417575846032317
+      }
+    },
+    {
+      "id": 45,
+      "config_idx": 15,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.6745506436797708,
+        "posterization": 0.7895095492804138,
+        "dithering_strength": 0.1987156815341724,
+        "edge_outline": 0.00441769369888192
+      }
+    },
+    {
+      "id": 46,
+      "config_idx": 15,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.6745506436797708,
+        "posterization": 0.7895095492804138,
+        "dithering_strength": 0.1987156815341724,
+        "edge_outline": 0.00441769369888192
+      }
+    },
+    {
+      "id": 47,
+      "config_idx": 15,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.6745506436797708,
+        "posterization": 0.7895095492804138,
+        "dithering_strength": 0.1987156815341724,
+        "edge_outline": 0.00441769369888192
+      }
+    },
+    {
+      "id": 48,
+      "config_idx": 16,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.4154614284548341,
+        "posterization": 0.5654858750780937,
+        "dithering_strength": 0.7901755405312056,
+        "edge_outline": 0.4847679798248091
+      }
+    },
+    {
+      "id": 49,
+      "config_idx": 16,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.4154614284548341,
+        "posterization": 0.5654858750780937,
+        "dithering_strength": 0.7901755405312056,
+        "edge_outline": 0.4847679798248091
+      }
+    },
+    {
+      "id": 50,
+      "config_idx": 16,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.4154614284548341,
+        "posterization": 0.5654858750780937,
+        "dithering_strength": 0.7901755405312056,
+        "edge_outline": 0.4847679798248091
+      }
+    },
+    {
+      "id": 51,
+      "config_idx": 17,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 15,
+        "contrast": 1.526300878513349,
+        "posterization": 0.5208616204015556,
+        "dithering_strength": 0.8631034258755935,
+        "edge_outline": 0.49863850146204636
+      }
+    },
+    {
+      "id": 52,
+      "config_idx": 17,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 15,
+        "contrast": 1.526300878513349,
+        "posterization": 0.5208616204015556,
+        "dithering_strength": 0.8631034258755935,
+        "edge_outline": 0.49863850146204636
+      }
+    },
+    {
+      "id": 53,
+      "config_idx": 17,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 15,
+        "contrast": 1.526300878513349,
+        "posterization": 0.5208616204015556,
+        "dithering_strength": 0.8631034258755935,
+        "edge_outline": 0.49863850146204636
+      }
+    },
+    {
+      "id": 54,
+      "config_idx": 18,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 25,
+        "contrast": 0.9308980248526492,
+        "posterization": 0.050846680228818913,
+        "dithering_strength": 0.6688412526636073,
+        "edge_outline": 0.5327378852939973
+      }
+    },
+    {
+      "id": 55,
+      "config_idx": 18,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 25,
+        "contrast": 0.9308980248526492,
+        "posterization": 0.050846680228818913,
+        "dithering_strength": 0.6688412526636073,
+        "edge_outline": 0.5327378852939973
+      }
+    },
+    {
+      "id": 56,
+      "config_idx": 18,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 25,
+        "contrast": 0.9308980248526492,
+        "posterization": 0.050846680228818913,
+        "dithering_strength": 0.6688412526636073,
+        "edge_outline": 0.5327378852939973
+      }
+    },
+    {
+      "id": 60,
+      "config_idx": 20,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 25,
+        "contrast": 1.3132447872229949,
+        "posterization": 0.3854835899772805,
+        "dithering_strength": 0.04043358953843135,
+        "edge_outline": 0.5685303117486299
+      }
+    },
+    {
+      "id": 61,
+      "config_idx": 20,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 25,
+        "contrast": 1.3132447872229949,
+        "posterization": 0.3854835899772805,
+        "dithering_strength": 0.04043358953843135,
+        "edge_outline": 0.5685303117486299
+      }
+    },
+    {
+      "id": 62,
+      "config_idx": 20,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 25,
+        "contrast": 1.3132447872229949,
+        "posterization": 0.3854835899772805,
+        "dithering_strength": 0.04043358953843135,
+        "edge_outline": 0.5685303117486299
+      }
+    },
+    {
+      "id": 63,
+      "config_idx": 21,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 12,
+        "contrast": 0.7108908208118313,
+        "posterization": 0.3514692014926161,
+        "dithering_strength": 0.03142918568673425,
+        "edge_outline": 0.5091283290110243
+      }
+    },
+    {
+      "id": 64,
+      "config_idx": 21,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 12,
+        "contrast": 0.7108908208118313,
+        "posterization": 0.3514692014926161,
+        "dithering_strength": 0.03142918568673425,
+        "edge_outline": 0.5091283290110243
+      }
+    },
+    {
+      "id": 65,
+      "config_idx": 21,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 12,
+        "contrast": 0.7108908208118313,
+        "posterization": 0.3514692014926161,
+        "dithering_strength": 0.03142918568673425,
+        "edge_outline": 0.5091283290110243
+      }
+    },
+    {
+      "id": 66,
+      "config_idx": 22,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 20,
+        "contrast": 0.9143559810763267,
+        "posterization": 0.40685655293176226,
+        "dithering_strength": 0.1393314544058757,
+        "edge_outline": 0.48353390342225383
+      }
+    },
+    {
+      "id": 67,
+      "config_idx": 22,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 20,
+        "contrast": 0.9143559810763267,
+        "posterization": 0.40685655293176226,
+        "dithering_strength": 0.1393314544058757,
+        "edge_outline": 0.48353390342225383
+      }
+    },
+    {
+      "id": 68,
+      "config_idx": 22,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 20,
+        "contrast": 0.9143559810763267,
+        "posterization": 0.40685655293176226,
+        "dithering_strength": 0.1393314544058757,
+        "edge_outline": 0.48353390342225383
+      }
+    },
+    {
+      "id": 70,
+      "config_idx": 23,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 18,
+        "contrast": 1.139841091301673,
+        "posterization": 0.16244897978781553,
+        "dithering_strength": 0.07697990982879299,
+        "edge_outline": 0.23180116233101444
+      }
+    },
+    {
+      "id": 71,
+      "config_idx": 23,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 18,
+        "contrast": 1.139841091301673,
+        "posterization": 0.16244897978781553,
+        "dithering_strength": 0.07697990982879299,
+        "edge_outline": 0.23180116233101444
+      }
+    },
+    {
+      "id": 72,
+      "config_idx": 24,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 18,
+        "contrast": 0.7612212872540044,
+        "posterization": 0.7437581218740585,
+        "dithering_strength": 0.295633685837714,
+        "edge_outline": 0.0843954078642165
+      }
+    },
+    {
+      "id": 75,
+      "config_idx": 25,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 15,
+        "contrast": 1.0565345704829103,
+        "posterization": 0.17475234977346688,
+        "dithering_strength": 0.8925589984899778,
+        "edge_outline": 0.4314737935325206
+      }
+    },
+    {
+      "id": 76,
+      "config_idx": 25,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 15,
+        "contrast": 1.0565345704829103,
+        "posterization": 0.17475234977346688,
+        "dithering_strength": 0.8925589984899778,
+        "edge_outline": 0.4314737935325206
+      }
+    },
+    {
+      "id": 77,
+      "config_idx": 25,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 15,
+        "contrast": 1.0565345704829103,
+        "posterization": 0.17475234977346688,
+        "dithering_strength": 0.8925589984899778,
+        "edge_outline": 0.4314737935325206
+      }
+    },
+    {
+      "id": 78,
+      "config_idx": 26,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.8440207698110708,
+        "posterization": 0.7168730399387946,
+        "dithering_strength": 0.6476901205413623,
+        "edge_outline": 0.0004163015962526551
+      }
+    },
+    {
+      "id": 85,
+      "config_idx": 28,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.8221078104707302,
+        "posterization": 0.09589229386694625,
+        "dithering_strength": 0.24412552224777417,
+        "edge_outline": 0.13463283373834445
+      }
+    },
+    {
+      "id": 87,
+      "config_idx": 29,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.8187642195730702,
+        "posterization": 0.44648160161387296,
+        "dithering_strength": 0.363629602379294,
+        "edge_outline": 0.7774256661767686
+      }
+    },
+    {
+      "id": 88,
+      "config_idx": 29,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.8187642195730702,
+        "posterization": 0.44648160161387296,
+        "dithering_strength": 0.363629602379294,
+        "edge_outline": 0.7774256661767686
+      }
+    },
+    {
+      "id": 89,
+      "config_idx": 29,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.8187642195730702,
+        "posterization": 0.44648160161387296,
+        "dithering_strength": 0.363629602379294,
+        "edge_outline": 0.7774256661767686
+      }
+    },
+    {
+      "id": 90,
+      "config_idx": 30,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 10,
+        "contrast": 1.5624472949421113,
+        "posterization": 0.20142583666029135,
+        "dithering_strength": 0.712270589924442,
+        "edge_outline": 0.11846954396271991
+      }
+    },
+    {
+      "id": 91,
+      "config_idx": 30,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 10,
+        "contrast": 1.5624472949421113,
+        "posterization": 0.20142583666029135,
+        "dithering_strength": 0.712270589924442,
+        "edge_outline": 0.11846954396271991
+      }
+    },
+    {
+      "id": 92,
+      "config_idx": 30,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 10,
+        "contrast": 1.5624472949421113,
+        "posterization": 0.20142583666029135,
+        "dithering_strength": 0.712270589924442,
+        "edge_outline": 0.11846954396271991
+      }
+    },
+    {
+      "id": 96,
+      "config_idx": 32,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 12,
+        "contrast": 0.8786464642366114,
+        "posterization": 0.726612708773323,
+        "dithering_strength": 0.6807054515547668,
+        "edge_outline": 0.4247476666537091
+      }
+    },
+    {
+      "id": 97,
+      "config_idx": 32,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 12,
+        "contrast": 0.8786464642366114,
+        "posterization": 0.726612708773323,
+        "dithering_strength": 0.6807054515547668,
+        "edge_outline": 0.4247476666537091
+      }
+    },
+    {
+      "id": 99,
+      "config_idx": 33,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 25,
+        "contrast": 1.0477831645730915,
+        "posterization": 0.44231447125706236,
+        "dithering_strength": 0.6721355474058786,
+        "edge_outline": 0.6092956922629741
+      }
+    },
+    {
+      "id": 100,
+      "config_idx": 33,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 25,
+        "contrast": 1.0477831645730915,
+        "posterization": 0.44231447125706236,
+        "dithering_strength": 0.6721355474058786,
+        "edge_outline": 0.6092956922629741
+      }
+    },
+    {
+      "id": 101,
+      "config_idx": 33,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 25,
+        "contrast": 1.0477831645730915,
+        "posterization": 0.44231447125706236,
+        "dithering_strength": 0.6721355474058786,
+        "edge_outline": 0.6092956922629741
+      }
+    },
+    {
+      "id": 102,
+      "config_idx": 34,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 18,
+        "contrast": 0.8376375439923996,
+        "posterization": 0.5825730788894877,
+        "dithering_strength": 0.6323058305935795,
+        "edge_outline": 0.5068237686087158
+      }
+    },
+    {
+      "id": 103,
+      "config_idx": 34,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 18,
+        "contrast": 0.8376375439923996,
+        "posterization": 0.5825730788894877,
+        "dithering_strength": 0.6323058305935795,
+        "edge_outline": 0.5068237686087158
+      }
+    },
+    {
+      "id": 104,
+      "config_idx": 34,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 18,
+        "contrast": 0.8376375439923996,
+        "posterization": 0.5825730788894877,
+        "dithering_strength": 0.6323058305935795,
+        "edge_outline": 0.5068237686087158
+      }
+    },
+    {
+      "id": 105,
+      "config_idx": 35,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 8,
+        "contrast": 1.1357746840747585,
+        "posterization": 0.07223181604352664,
+        "dithering_strength": 0.15071754396542947,
+        "edge_outline": 0.40655902139257494
+      }
+    },
+    {
+      "id": 106,
+      "config_idx": 35,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 8,
+        "contrast": 1.1357746840747585,
+        "posterization": 0.07223181604352664,
+        "dithering_strength": 0.15071754396542947,
+        "edge_outline": 0.40655902139257494
+      }
+    },
+    {
+      "id": 107,
+      "config_idx": 35,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 8,
+        "contrast": 1.1357746840747585,
+        "posterization": 0.07223181604352664,
+        "dithering_strength": 0.15071754396542947,
+        "edge_outline": 0.40655902139257494
+      }
+    },
+    {
+      "id": 108,
+      "config_idx": 36,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 15,
+        "contrast": 1.2958128067908818,
+        "posterization": 0.6866870438509759,
+        "dithering_strength": 0.6775643618422824,
+        "edge_outline": 0.013270263142284923
+      }
+    },
+    {
+      "id": 111,
+      "config_idx": 37,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 25,
+        "contrast": 1.112093058299281,
+        "posterization": 0.18119662015835036,
+        "dithering_strength": 0.17436642900499144,
+        "edge_outline": 0.5527501904819728
+      }
+    },
+    {
+      "id": 112,
+      "config_idx": 37,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 25,
+        "contrast": 1.112093058299281,
+        "posterization": 0.18119662015835036,
+        "dithering_strength": 0.17436642900499144,
+        "edge_outline": 0.5527501904819728
+      }
+    },
+    {
+      "id": 113,
+      "config_idx": 37,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 25,
+        "contrast": 1.112093058299281,
+        "posterization": 0.18119662015835036,
+        "dithering_strength": 0.17436642900499144,
+        "edge_outline": 0.5527501904819728
+      }
+    },
+    {
+      "id": 114,
+      "config_idx": 38,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.9867353463005374,
+        "posterization": 0.7493839909893877,
+        "dithering_strength": 0.6756901170392807,
+        "edge_outline": 0.5881728953926177
+      }
+    },
+    {
+      "id": 115,
+      "config_idx": 38,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.9867353463005374,
+        "posterization": 0.7493839909893877,
+        "dithering_strength": 0.6756901170392807,
+        "edge_outline": 0.5881728953926177
+      }
+    },
+    {
+      "id": 116,
+      "config_idx": 38,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.9867353463005374,
+        "posterization": 0.7493839909893877,
+        "dithering_strength": 0.6756901170392807,
+        "edge_outline": 0.5881728953926177
+      }
+    },
+    {
+      "id": 117,
+      "config_idx": 39,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 10,
+        "contrast": 0.8090716207377137,
+        "posterization": 0.4331583790620527,
+        "dithering_strength": 0.2579416277151556,
+        "edge_outline": 0.5279872368273433
+      }
+    },
+    {
+      "id": 118,
+      "config_idx": 39,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 10,
+        "contrast": 0.8090716207377137,
+        "posterization": 0.4331583790620527,
+        "dithering_strength": 0.2579416277151556,
+        "edge_outline": 0.5279872368273433
+      }
+    },
+    {
+      "id": 119,
+      "config_idx": 39,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 10,
+        "contrast": 0.8090716207377137,
+        "posterization": 0.4331583790620527,
+        "dithering_strength": 0.2579416277151556,
+        "edge_outline": 0.5279872368273433
+      }
+    },
+    {
+      "id": 120,
+      "config_idx": 40,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 15,
+        "contrast": 1.4172222002012158,
+        "posterization": 0.4441606492795699,
+        "dithering_strength": 0.260829174830409,
+        "edge_outline": 0.7970029598063395
+      }
+    },
+    {
+      "id": 121,
+      "config_idx": 40,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 15,
+        "contrast": 1.4172222002012158,
+        "posterization": 0.4441606492795699,
+        "dithering_strength": 0.260829174830409,
+        "edge_outline": 0.7970029598063395
+      }
+    },
+    {
+      "id": 122,
+      "config_idx": 40,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 15,
+        "contrast": 1.4172222002012158,
+        "posterization": 0.4441606492795699,
+        "dithering_strength": 0.260829174830409,
+        "edge_outline": 0.7970029598063395
+      }
+    },
+    {
+      "id": 123,
+      "config_idx": 41,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.5654193512887935,
+        "posterization": 0.4466347628856781,
+        "dithering_strength": 0.18870710834137938,
+        "edge_outline": 0.2230970820737455
+      }
+    },
+    {
+      "id": 124,
+      "config_idx": 41,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.5654193512887935,
+        "posterization": 0.4466347628856781,
+        "dithering_strength": 0.18870710834137938,
+        "edge_outline": 0.2230970820737455
+      }
+    },
+    {
+      "id": 125,
+      "config_idx": 41,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.5654193512887935,
+        "posterization": 0.4466347628856781,
+        "dithering_strength": 0.18870710834137938,
+        "edge_outline": 0.2230970820737455
+      }
+    },
+    {
+      "id": 126,
+      "config_idx": 42,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 8,
+        "contrast": 1.3003578299727714,
+        "posterization": 0.20225406356109504,
+        "dithering_strength": 0.6420316461542878,
+        "edge_outline": 0.06731197199603907
+      }
+    },
+    {
+      "id": 127,
+      "config_idx": 42,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 8,
+        "contrast": 1.3003578299727714,
+        "posterization": 0.20225406356109504,
+        "dithering_strength": 0.6420316461542878,
+        "edge_outline": 0.06731197199603907
+      }
+    },
+    {
+      "id": 129,
+      "config_idx": 43,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.7616287140946137,
+        "posterization": 0.7188433508216634,
+        "dithering_strength": 0.5806866214364547,
+        "edge_outline": 0.29782621324939446
+      }
+    },
+    {
+      "id": 130,
+      "config_idx": 43,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.7616287140946137,
+        "posterization": 0.7188433508216634,
+        "dithering_strength": 0.5806866214364547,
+        "edge_outline": 0.29782621324939446
+      }
+    },
+    {
+      "id": 131,
+      "config_idx": 43,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 15,
+        "contrast": 0.7616287140946137,
+        "posterization": 0.7188433508216634,
+        "dithering_strength": 0.5806866214364547,
+        "edge_outline": 0.29782621324939446
+      }
+    },
+    {
+      "id": 132,
+      "config_idx": 44,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 10,
+        "contrast": 0.9221455441377574,
+        "posterization": 0.7789310694042539,
+        "dithering_strength": 0.6918951976926933,
+        "edge_outline": 0.5215690076020805
+      }
+    },
+    {
+      "id": 133,
+      "config_idx": 44,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 10,
+        "contrast": 0.9221455441377574,
+        "posterization": 0.7789310694042539,
+        "dithering_strength": 0.6918951976926933,
+        "edge_outline": 0.5215690076020805
+      }
+    },
+    {
+      "id": 134,
+      "config_idx": 44,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 10,
+        "contrast": 0.9221455441377574,
+        "posterization": 0.7789310694042539,
+        "dithering_strength": 0.6918951976926933,
+        "edge_outline": 0.5215690076020805
+      }
+    },
+    {
+      "id": 135,
+      "config_idx": 45,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.8242693094605598,
+        "posterization": 0.5697433770780287,
+        "dithering_strength": 0.4938937151834346,
+        "edge_outline": 0.14305816737706306
+      }
+    },
+    {
+      "id": 136,
+      "config_idx": 45,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 8,
+        "contrast": 0.8242693094605598,
+        "posterization": 0.5697433770780287,
+        "dithering_strength": 0.4938937151834346,
+        "edge_outline": 0.14305816737706306
+      }
+    },
+    {
+      "id": 138,
+      "config_idx": 46,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 12,
+        "contrast": 0.9664687845828599,
+        "posterization": 0.5953364184452499,
+        "dithering_strength": 0.6576128923003434,
+        "edge_outline": 0.45464688266837733
+      }
+    },
+    {
+      "id": 139,
+      "config_idx": 46,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 12,
+        "contrast": 0.9664687845828599,
+        "posterization": 0.5953364184452499,
+        "dithering_strength": 0.6576128923003434,
+        "edge_outline": 0.45464688266837733
+      }
+    },
+    {
+      "id": 140,
+      "config_idx": 46,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 12,
+        "contrast": 0.9664687845828599,
+        "posterization": 0.5953364184452499,
+        "dithering_strength": 0.6576128923003434,
+        "edge_outline": 0.45464688266837733
+      }
+    },
+    {
+      "id": 141,
+      "config_idx": 47,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 25,
+        "contrast": 0.6936747678280925,
+        "posterization": 0.2941726424475468,
+        "dithering_strength": 0.25046181860558414,
+        "edge_outline": 0.4718966780484351
+      }
+    },
+    {
+      "id": 142,
+      "config_idx": 47,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 25,
+        "contrast": 0.6936747678280925,
+        "posterization": 0.2941726424475468,
+        "dithering_strength": 0.25046181860558414,
+        "edge_outline": 0.4718966780484351
+      }
+    },
+    {
+      "id": 143,
+      "config_idx": 47,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 25,
+        "contrast": 0.6936747678280925,
+        "posterization": 0.2941726424475468,
+        "dithering_strength": 0.25046181860558414,
+        "edge_outline": 0.4718966780484351
+      }
+    },
+    {
+      "id": 145,
+      "config_idx": 48,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.578892858275009,
+        "posterization": 0.3893937223675641,
+        "dithering_strength": 0.43439436551042865,
+        "edge_outline": 0.28006272615574057
+      }
+    },
+    {
+      "id": 146,
+      "config_idx": 48,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 12,
+        "contrast": 1.578892858275009,
+        "posterization": 0.3893937223675641,
+        "dithering_strength": 0.43439436551042865,
+        "edge_outline": 0.28006272615574057
+      }
+    },
+    {
+      "id": 147,
+      "config_idx": 49,
+      "grid_size": 60,
+      "params": {
+        "num_colors": 8,
+        "contrast": 1.245103362030565,
+        "posterization": 0.5351392477304797,
+        "dithering_strength": 0.1952429877980445,
+        "edge_outline": 0.5779616922092042
+      }
+    },
+    {
+      "id": 148,
+      "config_idx": 49,
+      "grid_size": 100,
+      "params": {
+        "num_colors": 8,
+        "contrast": 1.245103362030565,
+        "posterization": 0.5351392477304797,
+        "dithering_strength": 0.1952429877980445,
+        "edge_outline": 0.5779616922092042
+      }
+    },
+    {
+      "id": 149,
+      "config_idx": 49,
+      "grid_size": 150,
+      "params": {
+        "num_colors": 8,
+        "contrast": 1.245103362030565,
+        "posterization": 0.5351392477304797,
+        "dithering_strength": 0.1952429877980445,
+        "edge_outline": 0.5779616922092042
+      }
+    }
+  ],
+  "stats": {
+    "good_count": 29,
+    "bad_count": 121,
+    "comparison_count": 31
+  }
+}
